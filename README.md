@@ -1,4 +1,4 @@
-### Welcome to Mirae's Girhub!
+### Welcome to Mirae's Github!
 
 <!--
 **miraexhoi/miraexhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
