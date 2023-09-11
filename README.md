@@ -1,10 +1,10 @@
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to Mirae's Github! </h2>  
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Backend Develooper </h3>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to Mirae's Github! </h1>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Backend Develooper </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My Stacks </h4> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My Stacks </h3> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
@@ -22,7 +22,7 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h4> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
     <div style="font-weight: 700; font-size: 15px; color: #282d33;">
     <a href=https://www.instagram.com/miraexhoi> 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/miraexhoi"> 
@@ -35,7 +35,7 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h4> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> 
       <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraexhoi&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
