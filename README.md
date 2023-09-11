@@ -1,6 +1,6 @@
 <div style="text-align: left;">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to Mirae's Github! </h1>  
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Backend Develooper </h2>  
+    <h2 style="border-bottom" color: #282d33;> I'm Backend Develooper </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
