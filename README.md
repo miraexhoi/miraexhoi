@@ -1,6 +1,5 @@
 <div style="text-align: left;">
-    <h1>  Welcome to Mirae's Github! </h1>  
-    <h2> I'm Backend Developer </h2>
+    <h1>  Welcome to Mirae's Github! \n I'm Backend Developer</h1>
     </div>
     <div style="text-align: left;">
     <h3> 🛠️ Tech Stacks </h3>
