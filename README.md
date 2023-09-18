@@ -23,8 +23,6 @@
     </div>
 - contact : miraexhoi@gmail.com
 - career : [Portfolio](https://url.kr/gv86ch)
-
---
 ##
 <a href="https://www.instagram.com/miraexhoi">
   <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" width=10%>
