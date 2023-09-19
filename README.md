@@ -26,9 +26,6 @@
         <a href="https://www.instagram.com/miraexhoi">
           <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" width=10%>
         </a>
-        <a href=https://url.kr/gv86ch> 
-            <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://url.kr/gv86ch"> 
-        </a>
         <a href="mailto:miraexhoi@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=miraexhoi@gmail.com" width=7%>
         </a>
