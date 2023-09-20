@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, Welcome to Mirae's GitHub! 
 
-- major : **Back-end** Developement
+- **Back-end** Developer
 - school : [Daegu Software High School](http://dgswhs.kr/)
 - stacks :
     <div style="margin: ; text-align: left;" "text-align: left;"> 
