@@ -1,4 +1,4 @@
-## 👋🏻 Hi, Welcome to Mirae's GitHub! 
+## 👋🏻 Hi, Welcome to Mirae's GitHub!
 
 - **Back-end** Developer
 - school : [Daegu Software High School](http://dgswhs.kr/)
