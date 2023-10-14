@@ -1,8 +1,8 @@
 ## 👋🏻 Hi, Welcome to Mirae's GitHub! 
 
-- **Back-end** Developer
-- school : [Daegu Software High School](http://dgswhs.kr/)
-- stacks :
+- I'm **Back-end** Developer
+- **school** : [Daegu Software High School](http://dgswhs.kr/)
+- **stacks** :
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
     </div>
-- contact :
+- **contacts** :
   <div style="margin: ; text-align: left;" "text-align: left;"> 
         <a href="https://www.instagram.com/miraexhoi">
           <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" width=10%>
