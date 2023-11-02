@@ -30,3 +30,5 @@
             <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=miraexhoi@gmail.com" width=7%>
         </a>
     </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraexhoi)](https://github.com/anuraghazra/github-readme-stats)
