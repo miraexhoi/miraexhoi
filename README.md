@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, Welcome to Mirae's GitHub! 
 
-- I'm **Back-end** Developer
+- I'm studying **Back-end** engineering
 - **school** : [Daegu Software High School](http://dgswhs.kr/)
 - **stacks** :
     <div style="margin: ; text-align: left;" "text-align: left;"> 
